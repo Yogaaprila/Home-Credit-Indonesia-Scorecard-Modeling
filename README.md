@@ -33,5 +33,6 @@ To address these challenges, a machine learning model will be developed to predi
 2. JupyterLab / Jupyter Notebook
 
 ## Documentation 
-[Presentation] (https://www.canva.com/design/DAGauWN-zS0/YFAbPTXqdlwWD6EkMIjDYg/edit)
-[Python Code] 
+[Presentation](https://www.canva.com/design/DAGauWN-zS0/YFAbPTXqdlwWD6EkMIjDYg/edit?utm_content=DAGauWN-zS0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Python Code](https://github.com/Yogaaprila/Home-Credit-Indonesia-Scorecard-Modeling/blob/0037e7f6df0e539953b716386d03753461696606/Project-HCI.ipynb)
