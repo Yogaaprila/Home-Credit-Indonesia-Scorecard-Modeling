@@ -1,4 +1,4 @@
-# **Home Credit Indonesia Score Card Modeling**
+# **Home Credit Indonesia Score CardModeling**
 
 ## Problems
 Home Credit Indonesia is facing several challenges:  
