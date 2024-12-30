@@ -30,4 +30,8 @@ To address these challenges, a machine learning model will be developed to predi
    
 ## Tools
 1. Python Programming Language  
-2. JupyterLab / Jupyter Notebook  
+2. JupyterLab / Jupyter Notebook
+
+## Documentation 
+[Presentation] (https://www.canva.com/design/DAGauWN-zS0/YFAbPTXqdlwWD6EkMIjDYg/edit)
+[Python Code] 
