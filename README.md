@@ -1,5 +1,8 @@
 # **Home Credit Indonesia Scorecard Modeling**
 
+## Project Overview
+Home Credit is currently using various statistical methods and Machine Learning techniques to make credit score predictions. Now, as a Data Scientist Intern, we will unlock the full potential of our data. By doing so, we can ensure that customers who are able to repay are not rejected when applying for loans, and that loans are provided with a principal, maturity, and repayment calendar that will motivate customers to succeed.
+
 ## Problems
 Home Credit Indonesia is facing several challenges:  
 1. Ensuring that customers who can repay their loans (class 0) are not rejected to increase profitability.  
